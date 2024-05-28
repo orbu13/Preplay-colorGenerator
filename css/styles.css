@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+}
+
+.previousColors{
+    height: 100%;
+    width: 20%;
+    background-color: skyblue;
+
+}
+
+.details{
+    display: inline-block;
+    background-color: skyblue
+}
+
